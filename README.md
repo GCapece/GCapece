@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GCapece
-- 👀 I’m interested in : mathematics , aerodynamics & space propulsion .
+- 👀 I’m interested in : mathematics , aerodynamics & aircraft propulsion .
 - 🌱 I’m currently studying Aerospace Eng.
 
 <!---
